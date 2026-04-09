@@ -1,0 +1,24 @@
+{
+  "overview": "A professional one-page portfolio website for Guduru Vythanya Sree, a first-year AI/ML undergraduate student from Hyderabad, India. Features hero section, about me, skills with animated progress bars, education, and contact form with dark mode toggle.",
+  "features": [
+    "Hero section with profile photo placeholder, name, tagline, and bio",
+    "About Me section with personal background and location",
+    "Skills section with animated progress bars by category",
+    "Education & Experience section",
+    "Contact section with email, social links, and contact form",
+    "Dark mode toggle with localStorage persistence",
+    "Smooth scroll navigation",
+    "Fully responsive mobile and desktop layout",
+    "Hover effects and fade-in scroll animations"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "personal",
+    "ai-ml",
+    "student",
+    "dark-mode",
+    "responsive"
+  ],
+  "last_updated": "2026-04-09T07:54:25.282Z"
+}
